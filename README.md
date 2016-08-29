@@ -4,13 +4,15 @@
 การเริ่มต้นจึงไม่ใช่เรื่องที่ยากจนเกินไปอีกแล้ว อย่างไรก็ตาม เอกสารชิ้นนี้พยายามรวมรวมเว็บไซต์ต่าง ๆ
 พร้อมทั้งรายละเอียดคร่าว ๆ เพื่อให้ผู้สนใจสามารถเริ่มต้นได้อย่างรวดเร็ว และเลือกเล่นได้อย่างเหมาะสม
 
+การใช้เครื่องมือเหล่านี้แม้จะทำให้การหัดเขียนโปรแกรมง่ายขึ้น แต่ไม่สามารถทำให้การเขียนโปรแกรมกลายเป็นเรื่องง่ายไปได้ ผู้เริ่มต้นอาจจะต้องการกำลังใจและการสนับสนุนเป็นพิเศษในการเริ่มต้นฝึกทักษะใหม่ที่จะมีคุณค่าต่อไปในอนาคต
+
 ## กลุ่มที่โปรแกรมด้วยการต่อบล็อค
 
-### 1. Code Studio บน [Code.org](http://code.org)
+### 1. [Code Studio](https://studio.code.org/) บน [Code.org](http://code.org)
 
 * ลิงก์: [https://studio.code.org/](https://studio.code.org/)
 * Platform: เว็บ สามารถเล่นบนมือถือได้ (แต่รูปบล็อคจะมีขนาดเล็ก)
-* ลักษณะเด่น: บทเรียนออกแบบดีมาก ตัวละครประกอบโจทย์เป็นที่รู้จัก (เช่น ตัวละครจาก angry birds, zombie, หรือ star wards)
+* ลักษณะเด่น: บทเรียนออกแบบดีมาก ตัวละครประกอบโจทย์เป็นที่รู้จัก (เช่น ตัวละครจาก angry birds, zombie, หรือ star wars)
 * ลักษณะการสอน: เล่นเกมแก้โจทย์ปัญหา
 * ลักษณะโปรแกรม: เขียนด้วยการลากวางบล็อค
 * ลักษณะการสอน: มีคำแนะนำด้วยวิดีโอ
@@ -27,7 +29,8 @@
 * ตัวอย่างโจทย์เด็กโต บทเรียนที่ 3 สำหรับเด็ก 8-18 ปี
 ![ตัวอย่าง-เงื่อนไ](images/code-studio/sample-conditions.png)
 
-### 2. An hour of code บน [Code.org](https://code.org/learn)
+#### กิจกรรม an hour of code บน [Code.org](https://code.org/learn)
+* กิจกรรม [Hour of Code](https://en.wikipedia.org/wiki/Code.org#Hour_of_Code) เป็นกิจกรรมที่พยายามให้คนที่สนใจได้ทดลองเขียนโค้ดที่เริ่มจัดขึ้นในช่วงสัปดาห์การศึกษาด้าน computer science
 * ลักษณะเด่น: เป็นการรวบรวมบทเรียนสั้น ๆ (ทำจบในเวลาไม่นาน) หลายบทเรียนมีการดำเนินเรื่องด้วยตัวละครที่เป็นที่รู้จัก บทเรียนย่อยมีดังนี้
   * [Starwars: Building a Galaxy With Code](https://code.org/starwars) - นอกจากใช้บล็อคแล้วยังใช้ JavaScript ได้ด้วย
   * [Minecraft Hour of Code](https://code.org/mc)
@@ -38,11 +41,9 @@
   * [Play Lab](https://hourofcode.com/lab)
   * [Artist](https://hourofcode.com/art)
 
-### 3. [Scratch](https://scratch.mit.edu/)
+### 2. [Scratch](https://scratch.mit.edu/) และ [ScratchJr](https://www.scratchjr.org/)
 
-### 4. [ScratchJr](https://www.scratchjr.org/)
-
-### 5. [Snap!](http://snap.berkeley.edu/)
+### 3. [Snap!](http://snap.berkeley.edu/)
 
 ## กลุ่มที่ใช้ภาษาโปรแกรม
 
