@@ -45,10 +45,20 @@
 
 ### 3. [Snap!](http://snap.berkeley.edu/)
 
+### 4. [Alice](http://www.alice.org/index.php)
+
 ## กลุ่มที่ใช้ภาษาโปรแกรม
 
 ### 1. [Greenfoot](http://www.greenfoot.org/)
 
-### 2. [Alice](http://www.alice.org/index.php)
+### 2. [Code Combat](https://codecombat.com/)
 
-### 3. [Code Combat](https://codecombat.com/)
+### 3. [KidsRuby](http://kidsruby.com/)
+
+## เว็บสอนเขียนโปรแกรมอื่น ๆ (อาจจะไม่ได้เน้นเฉพาะเด็ก)
+
+### 1. [Codecademy](https://www.codecademy.com/)
+
+## เอกสารเพิ่มเติม
+
+* [บทความ Programming for Children, Minus Cryptic Syntax](http://www.nytimes.com/2011/11/10/technology/personaltech/computer-programming-for-children-minus-cryptic-syntax.html?_r=4) พูดถึงการเขียนโปรแกรมสำหรับเด็ก ด้วยเครื่องมือที่ลดปัญหาเรื่องไวยากรณ์ บทความกล่าวถึง Scratch, Alice, Codecademy, [Dontfeartheinternet](http://dontfeartheinternet.com/), KidsRuby, [JustBasic](http://justbasic.com/), [Corona](https://coronalabs.com/)
